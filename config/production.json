@@ -1,0 +1,5 @@
+{
+    "port":5000,
+    "mongoUri":"mongodb+srv://viva:viva123@cluster0.qvys0rj.mongodb.net/link-app?retryWrites=true&w=majority",
+    "jwtsecret":"ArazShikhliMiaSanMia"
+}
